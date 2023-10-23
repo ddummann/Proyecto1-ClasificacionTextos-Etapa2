@@ -1,5 +1,8 @@
 from joblib import load
 
+import logging
+import datetime
+
 from nltk.stem import SnowballStemmer
 import spacy
 import re, unicodedata
@@ -118,12 +121,18 @@ def full_preprocessing(text):
 
 pipeline = load('thePipeline.joblib')
 
+logging.basicConfig(filename='modele_journal.log', level=logging.INFO)
+
 text = str(input('Entra un texto : '))
+current_time = datetime.datetime.now()
+
+logging.info(f'{current_time} - Entrada : {text}')
 
 ## hay como un problema con stem_and_lemmatize
 # print(full_preprocessing(text))
 
 
 num = pipeline.predict([full_preprocessing(text)])[0]
+logging.info(f'{current_time} - Salida : {classes[num]}')
 
 print(f'Este texto es relacionado con : {classes[num]}')
