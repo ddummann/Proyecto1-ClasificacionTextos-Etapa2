@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <style>
+        body, head {
+            font-family: "Open Sans", sans-serif;
+            text-align: center; /* Reemplazo para <center> */
+        }
+        .btn-custom {
+            font-size: 12px;
+            border: 1px solid #656565;
+            background-color: #EFEFEF;
+            border-radius: 2.5px;
+        }
+        .btn-seleccion {
+            font-size: 12px;
+        }
+        .btn-custom:hover, .btn-custom:focus {
+            background-color: #e6e6e6;
+        }
+        .btn-custom:focus {
+            outline: none;
+            background-color: #EFEFEF;
+        }
+    </style>
+</head>
+<body>
+    <h1>API de Objetivos de Desarrollo Sostenible</h1>
+    <h2>Objetivos de Desarrollo Sostenible</h2>
+    <p>En esta API puedes ingresar un texto y te dirá a que objetivo de desarrollo sostenible pertenece.</p>
+
+    <h3>Cargar Archivo de ODS</h3>
+    <div>
+        <form method="post" action="/predict-file" enctype="multipart/form-data">
+            <input type="file" name="file" class="btn-seleccion">
+            <button type="submit" class="btn-custom">Clasificar</button>
+        </form>
+    </div>
+    <div id="plot"></div>
+    <script>
+        var data = %s;
+        Plotly.newPlot('plot', data);
+    </script>
+    <h3>Escribir texto</h3>
+    <div>
+        <form method="get" action="/predict-text" id="textarea">
+            <textarea name="input" id="input" rows="4" cols="50" required></textarea>
+            <br><br>
+            {% for value in prediction %}
+            <p>Texto de ODS: {{ value }}</p>
+            {% endfor %}
+            <button type="submit" id="submit" class="btn-custom">Clasificar</button>
+        </form>
+        <script>
+            var value = localStorage.getItem('submit');
+            if (value) {
+                document.getElementById('input').value = value;
+            }
+        </script>
+    </div>
+</body>
+</html>
