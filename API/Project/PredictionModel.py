@@ -19,7 +19,7 @@ class Model:
         self.model = None
 
     def make_predictions(self, data):
-        model = jb.load("assets/modelo.joblib")
+        model = jb.load("./assets/modelo.joblib")
         result = model.predict(data['texto_limpio'])
         df = pd.DataFrame(result, columns=['ODS'])
         return df
