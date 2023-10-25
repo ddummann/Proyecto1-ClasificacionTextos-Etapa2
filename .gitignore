@@ -128,6 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -161,3 +162,7 @@ cython_debug/
 
 # Archivo dañado
 data/cat_345_clean_sin_lema_test.xlsx
+
+
+# DS_Store
+.DS_Store
