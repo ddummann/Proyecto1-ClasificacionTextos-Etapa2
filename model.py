@@ -122,28 +122,27 @@ def full_preprocessing(text):
 pipeline = load('thePipeline.joblib')
 
 
-while True:
-    print('\n'+'\n')
-    print('#############################################################')
 
-    logging.basicConfig(filename='modele_journal.log', level=logging.INFO)
+print('\n'+'\n')
+print('#############################################################')
 
-    text = str(input('Entra un texto : '))
-    if text == "stop":
-        break
-    print('#############################################################')
-    current_time = datetime.datetime.now()
+logging.basicConfig(filename='modele_journal.log', level=logging.INFO)
 
-    logging.info(f'{current_time} - Entrada : {text}')
+text = str(input('Entra un texto : '))
 
-    ## hay como un problema con stem_and_lemmatize
-    # print(full_preprocessing(text))
+print('#############################################################')
+current_time = datetime.datetime.now()
+
+logging.info(f'{current_time} - Entrada : {text}')
+
+## hay como un problema con stem_and_lemmatize
+# print(full_preprocessing(text))
 
 
-    num = pipeline.predict([full_preprocessing(text)])[0]
-    logging.info(f'{current_time} - Salida : {classes[num]}')
+num = pipeline.predict([full_preprocessing(text)])[0]
+logging.info(f'{current_time} - Salida : {classes[num]}')
 
-    print(f'Este texto es relacionado con : {classes[num]}')
-    print('#############################################################')
+print(f'Este texto es relacionado con : {classes[num]}')
+print('#############################################################')
 
     
