@@ -5,3 +5,4 @@ etc/
 share/
 pyvenv.cfg
 !Project/
+API/Pipeline/pipeline.ipynb

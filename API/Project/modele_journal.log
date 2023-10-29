@@ -1,0 +1,534 @@
+INFO:root:=====================================================
+INFO:root:Iniciando el proceso de prediccion para MULTIPLES textos
+INFO:root:2023-10-29 11:51:46.970067 - Df con tamanio : (49, 1)
+INFO:root:2023-10-29 11:51:46.970067 - Entrada Columnas: Index(['Textos_espanol'], dtype='object')
+INFO:root:Inicio de prediccion
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Se basa en los nueve años de educación básica ( seis de primaria y tres de secundaria ) . Los alumnos que acceden al segundo ciclo de secundaria pueden ir a un centro de orientación más académica o a un centro de formación profesional . Esto se aplica tanto en el sistema islámico como en el no islámico . La enseñanza secundaria superior formal comprende la enseñanza general ( sekolah menengah atas , o SMA ) , la enseñanza profesional ( sekolah menengah kejuruan , o SMK ) , las escuelas secundarias superiores islámicas ( madrasah aliyah , o MA ) y la enseñanza profesional islámica ( madrasah aliyah kejuruan , o MAK ) . Este capítulo se centra principalmente en la enseñanza secundaria superior académica , mientras que el capítulo 5 trata de la formación profesional . Se está trabajando en el desarrollo de colegios comunitarios y vías alternativas de acceso a la enseñanza superior .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: En la última década , y en particular desde 2010 , el número de altas per cápita ha tendido a disminuir , y ahora está en línea con la media de la OCDE mencionada anteriormente . Por ejemplo , los habitantes de zonas rurales representan el 43 % de la población , pero sólo el 32 % de las altas hospitalarias . A falta de información complementaria , no es posible determinar si esta diferencia indica o no disparidades en el acceso de las poblaciones rurales y , en caso afirmativo , si las causas son geográficas , culturales o infraestructurales . No parece que se recojan datos sobre el acceso a la atención desde el punto de vista del paciente , lo que ayudaría a comprender la naturaleza de los obstáculos al acceso ( y las soluciones ) . En general , no es posible determinar con los datos disponibles si los ingresos o las características socioeconómicas de los pacientes influyen a la hora de llegar a las puertas del hospital o de ser ingresado . El acceso desigual probablemente se deba también a la incapacidad de los centros de las distintas regiones para prestar los mismos servicios .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: AsÃ , por ejemplo , el estigma asociado a los beneficiarios de prestaciones sociales o a los pobres aumenta su desventaja . Del mismo modo , los errores de dignidad y reconocimiento pueden causar desventajas.54 La infravaloraciÃ³n del trabajo de las mujeres es un error de reconocimiento que causa directamente desventajas socioeconÃ³micas , por lo que el derecho a la igualdad de retribuciÃ³n por un trabajo de igual valor es una sÃntesis importante de las dos primeras dimensiones del derecho a la igualdad : reparar la desventaja y abordar el estigma y los estereotipos . Tanto el Comité de Derechos Económicos , Sociales y Culturales como el Comité para la Eliminación de la Discriminación contra la Mujer han dado este paso . Directrices para la presentación de informes '' , párrafo 29 , CDESC , Ecuador , op . cit .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Hay muchos profesores no cualificados en las escuelas , ya que es difícil contratar a profesores cualificados . Un indicio del reconocimiento del importante papel de los profesores en este contexto es la inclusiÃ³n por Alberta de preguntas adicionales en la Encuesta Internacional sobre la EnseÃ±anza y el Aprendizaje de la OCDE de 2018 relativas a la comprensiÃ³n por parte de los profesores y los lÃderes escolares de cuestiones relacionadas con las culturas indÃgenas , la historia y el trabajo con alumnos indÃgenas , asÃ como sobre el desarrollo profesional pertinente . El enfoque holÃstico de los pueblos indÃgenas hace hincapiÃ© en lo mucho que estos contribuyen al bienestar general de los niÃ±os , asÃ como al de todos los demÃ¡s , ademÃ¡s de factores como las ventajas y desventajas materiales . El trauma sufrido por los pueblos indígenas , incluso a través del sistema de escuelas residenciales , todavía es sentido agudamente por muchos . De hecho , se nos dijo que los síntomas del trauma pueden aumentar en lugar de disminuir con el paso del tiempo , exacerbados por las relaciones intergeneracionales . Frente a este panorama más amplio , pueden comprenderse mejor los estudios específicos de determinadas provincias y territorios , y la comparación entre jóvenes indígenas y no indígenas ( Freeman , King y Pickett , 2016 ) .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: A raíz de su preocupación por el hecho de que los médicos de todo el sistema sanitario japonés no fueran capaces de identificar los signos de sufrimiento psicológico que podrían ayudar a reducir los suicidios , la Asociación Médica Japonesa informa de que empezó a compartir información y orientaciones sobre la depresión con todos los médicos , primero en 2004 y luego de nuevo en 2009 . En la actualidad , sólo se recogen indicadores sobre la tasa de reclusión y contención , y de ingresos involuntarios , por parte de los proveedores y a nivel prefectural . La información recopilada sistemáticamente sobre el sistema de atención de salud mental se limita a indicadores estructurales : instalaciones , número de personal , número de camas .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Hay que eliminar las prÃ¡cticas discriminatorias de las instituciones financieras , como el requisito de que los hombres firmen los documentos de las mujeres . Pero las instituciones financieras formales tienen que hacer algo mÃ¡s que reducir las barreras de entrada a las mujeres micropropietarias . Deben mejorar su rendimiento a la hora de financiar el crecimiento de las empresas propiedad de mujeres .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los centros de educación básica alternativa ( EBA ) ofrecen tres años con un plan de estudios alternativo en sustitución de los cuatro años que dura el primer ciclo ordinario de primaria . El nivel secundario consta de dos ciclos de dos aÃ±os cada uno : 9Â `` 10 y 11-12 . Los que completan diez aÃ±os de escolaridad pueden acceder al segundo ciclo para prepararse para la enseÃ±anza superior , o ingresar en centros de EFTP para recibir formaciÃ³n para un empleo productivo ( vÃ©ase la figura 8.1 ) .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: El uso de estadísticas de género puede proporcionar una comprensión más completa de las dimensiones de género de la pobreza , lo que a su vez puede cambiar significativamente las prioridades en las intervenciones políticas y programáticas ( Klugman , 2002 ) . Las estadísticas de género pueden abordar múltiples dimensiones de la pobreza y la desigualdad , incluida la desigualdad de activos basada en el género , la asignación de recursos dentro del hogar , la pobreza de tiempo o la vulnerabilidad a los choques externos . Comprender la naturaleza de género de la pobreza mejorará significativamente tanto la equidad como la eficacia de las estrategias de reducción de la pobreza ( Klugman , 2002 ) . Las estadísticas de género desempeñan un papel importante en el desarrollo y el seguimiento de las políticas de reducción de la violencia contra las mujeres .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Cabe preguntarse , sin embargo , si los alumnos con más talento del país asisten a estos centros , ya que los estudiantes desfavorecidos tienen un acceso más limitado a las clases extraescolares para prepararse para la admisión . Además , la proporción de alumnos con mejores resultados en las evaluaciones internacionales sigue siendo muy pequeña , mientras que un gran número se queda rezagado con respecto a sus compañeros de otros países . Los sistemas educativos que mejoran más rápidamente en PISA muestran que las mejoras en la parte superior e inferior de la escala de rendimiento pueden ir de la mano .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: A pesar de que hay más pensionistas mujeres que hombres , los ingresos totales de las pensionistas son inferiores a los de los hombres ( ASUB 2014 : 5 ) . En 2011 , la pensión media de las mujeres era de 1.220 euros al mes , frente a los 1.744 euros de los hombres ( ASUB 2013 : 23 ) . En el informe de la ASUB ( 2013:21 ) puede encontrarse un examen más detallado de la diferencia salarial medida sobre la base de diferentes principios y parámetros .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Estos estudios examinaron los crecientes niveles de participación de las mujeres asiáticas en la propiedad de empresas . Una conclusión interesante de las investigaciones realizadas en el Reino Unido ( Dhaliwal , 1998 y 2007 , Ram y Jones , 1998 ) es que las mujeres asiáticas no están muy representadas en el trabajo por cuenta propia porque hay una tendencia a que algunas empresarias sean `` invisibles '' y no se reconozca su existencia . Estas mujeres `` ocultas '' ( Dhaliwal , 1998 ) dicen que es su marido , su padre o su hermano quien dirige la empresa y ocultan el alcance de su papel , aunque desempeñen un papel fundamental en la gestión de la empresa .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los cursos no financiados con tasas no reguladas ( y mucho más elevadas ) han crecido en número , aunque siguen representando sólo una parte relativamente pequeña de la educación terciaria . Entre 1995 y 2006 , el aumento porcentual del número de estudiantes en todos los niveles fue muy superior a la media de la OCDE ( Figura 1 , Panel A ) . Además , la proporción de estudiantes matriculados en todos los niveles educativos en relación con la población total es muy alta en comparación con la mayoría de los países de la OCDE ( Figura 1 , Panel B ) .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: TambiÃ©n persisten las disparidades en materia de emprendimiento , ya que solo el 19 % de las pequeÃ±as y medianas empresas ( PYME ) estÃ¡n dirigidas por mujeres ( WBC 2013a ) . En todos los sectores de la economÃa britÃ¡nica , la actividad econÃ³mica de las mujeres sigue viÃ©ndose obstaculizada y su potencial desaprovechado . Los datos demuestran que la economía se beneficiaría enormemente de una mayor igualdad de género en el lugar de trabajo .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Por ejemplo , los servicios de urgencias tienen que prestar asistencia aunque ya se hayan cubierto las cuotas anuales de determinados servicios , por lo que el número de casos de este tipo puede proporcionar alguna indicación de si las cuotas se han fijado adecuadamente . El origen y destino final de los pacientes también puede proporcionar una indicación de si la capacidad en los distintos niveles de atención es adecuada , tanto en términos de acceso como de calidad de la atención . En 2013 , había 3,1 médicos en ejercicio por cada 1 000 habitantes , cerca de la media de la OCDE de 3,2 , y un ligero aumento con respecto a 2000 , cuando había 2,9 médicos en ejercicio por cada 1 000 habitantes en Letonia .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: De hecho , las mujeres siguen siendo desproporcionadamente responsables del trabajo de cuidados no remunerado , con un gran potencial para mejorar el cuidado público , accesible y asequible de niños y/o ancianos ( OCDE , 2017 [ i ) ) . Aunque las mujeres de diversos orígenes se encuentran a menudo en el extremo perdedor de la desigualdad estructural de género , las normas y estereotipos culturales crean simultáneamente problemas para los hombres y los niños . Además , surgen nuevos retos : al tiempo que presentan oportunidades reales de cambio , la digitalización , las tecnologías disruptivas y los macrodatos generan riesgos adicionales para ampliar la escala de las desigualdades persistentes y crean nuevas formas de brechas .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Se han destinado numerosos programas de subvenciones a la investigación básica y la comercialización de I+D , pero de forma relativamente poco sistemática . La competencia entre los 13 estados malayos para atraer instituciones de investigación y campus de enseñanza superior es intensa . La escasez de terrenos en Penang y su elevado coste suponen una barrera a la inversión . Según el NCER 2007 Blueprint , varios polígonos industriales y parques tecnológicos siguen infrautilizados o desaprovechados . La excesiva dependencia del modelo techpush está dificultando la transferencia de conocimientos . Se ha creado un Consejo Científico de Penang , impulsado por la industria , para garantizar que Penang pueda aplicar su estrategia .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Además , los alumnos de los cursos 9º y 10º tienen una tarea de proyecto obligatoria que les da la oportunidad de completar y presentar un proyecto interdisciplinar . El proyecto se evalúa mediante una declaración escrita basada en el contenido , el proceso de trabajo y la presentación del trabajo final . La evaluación del proyecto se puede indicar en el certificado de fin de estudios .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Dada la evidencia de que muchos estudiantes en Costa Rica comienzan la escuela con escasas competencias básicas , especialmente en lectura , el país también podría considerar adelantar la evaluación de primaria a un curso anterior , o añadir una evaluación adicional en los primeros años de primaria . Comprender mejor dónde y cómo '' los alumnos empiezan a quedarse atrás permitiría desarrollar ayudas más eficaces para profesores y escuelas . Reconociendo la importancia de consolidar las habilidades básicas en los primeros grados para el aprendizaje posterior , muchos países de la OCDE han introducido una evaluación nacional en el segundo ( por ejemplo , Francia , Italia ) , tercer ( por ejemplo , Alemania , Suecia ) , o cuarto grado ( por ejemplo , Chile , Corea ) de la escuela primaria ( OCDE , 2013 ) . Una mejora esencial en cualquier grado en Costa Rica es una mejor información sobre la equidad de los resultados .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Hasta hace poco , sin embargo , la cuestión había recibido relativamente poca atención y pocos países han desarrollado políticas sistemáticas para abordarla . Otra opción es facilitar a las mujeres inmigrantes el acceso a la actividad empresarial . Se trata de una vía especialmente eficaz para acceder al mercado laboral . Ofrece la oportunidad de dedicarse a una actividad remunerada que es más flexible y fácil de combinar con el cuidado de los hijos y otros compromisos , y en la que las barreras culturales son un obstáculo menor que el empleo regular .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Cada vez se reconocen más las repercusiones de un medio ambiente degradado sobre la salud y su reducción se considera uno de los principales objetivos de la política , los programas y la normativa de protección medioambiental . Se ha avanzado en el control de la calidad de los principales medios ambientales y en la vigilancia de las enfermedades infecciosas . Se ha reforzado la capacidad profesional en materia de salud pública y medioambiental con métodos avanzados de vigilancia sanitaria y evaluación de riesgos .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Formulario único de recogida de datos - Datos agregados ) . Una estancia de más de 24 horas se considera una lesión grave , y menos , una lesión leve . Sin embargo , desde 2010 , la ANSV está trabajando con el Ministerio de Salud de la Nación para vincular los registros hospitalarios y los datos del Formulario Naranja . Este proyecto de vinculación se inició como piloto en dos de las provincias más pobladas de Argentina , con el fin de recopilar datos basados en el MAIS 3 .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Dado que estos objetivos se centran en no dejar a nadie atrÃ¡s , a la hora de abordar los problemas medioambientales hay que tener en cuenta la desigualdad y la exclusiÃ³n entre hombres y mujeres , es decir , las dimensiones sociales del desarrollo sostenible . Las diferencias socialmente construidas entre hombres y mujeres son una dimensiÃ³n importante de la desigualdad y la exclusiÃ³n y deben abordarse para alcanzar los ODS . MÃ¡s del 60 % de las personas desnutridas o que padecen hambre crÃ³nica en el mundo viven en la regiÃ³n Asia-PacÃfico . En las zonas rurales y urbanas , la variabilidad estacional , que hace subir el precio de los alimentos básicos , obliga a los hogares a gastar más de sus ingresos en alimentos .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: El principal instrumento de medición , el Adult Mental Health Benchmarking Toolkit , presenta indicadores de resultados en formato de cuadro de mando , combinando indicadores estructurales , de proceso y de resultados . Por lo general , se entiende que los trastornos leves a moderados ( como la depresión y la ansiedad ) no requieren tratamientos altamente especializados administrados por psiquiatras o en régimen de hospitalización en la gran mayoría de los casos . Por el contrario , requieren una sólida atención primaria y comunitaria . Aunque la atención primaria es , en la inmensa mayoría de los casos , el primer punto al que acuden las personas que sufren trastornos mentales , los médicos de atención primaria no siempre disponen de las competencias y opciones de tratamiento adecuadas para responder eficazmente a las necesidades .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los campeones de HeForShe están encontrando formas diferentes y creativas de romper el ciclo del daño . No se limitan a poner de relieve el problema y a cuestionar las actitudes . TambiÃ©n estÃ¡n explorando cÃ³mo pueden adaptarse los procesos y estructuras establecidos para reducir la violencia y sentar a mÃ¡s mujeres a la mesa cuando se trata de la agenda de paz y seguridad . La comunidad internacional ha reconocido que la participaciÃ³n de la mujer es vital para alcanzar y mantener la paz .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los esfuerzos deben centrarse en abordar las desigualdades en el acceso a los servicios sanitarios -entre regiones , asÃ como entre ciudades y zonas rurales- teniendo en cuenta la geografÃa del paÃs y la baja densidad de poblaciÃ³n en la planificaciÃ³n de la prestaciÃ³n sanitaria . Las redes de instalaciones a todos los niveles deberÃan reorganizarse de forma compatible con los nuevos modelos de prestaciÃ³n de servicios y en apoyo de los mismos , y ajustarse a las tendencias demogrÃ¡ficas y los patrones de acceso . Para este ejercicio , un punto de partida podrÃan ser los planes maestros de prestaciÃ³n de servicios desarrollados en los Ãºltimos aÃ±os .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Las mujeres siguen sufriendo un trato desigual y actitudes condescendientes . Las mujeres polÃticas aÃºn no gozan del poder de decisiÃ³n de sus homÃ³logos masculinos . En Irak , por ejemplo , ninguna mujer participÃ³ en las negociaciones para alcanzar un gobierno de compromiso tras las elecciones parlamentarias de 2010 , y el Ministerio de Asuntos de la Mujer es sÃ³lo un gabinete de Estado sin presupuesto asignado . La sentencia fue seguida , el 6 de junio de ese aÃ±o , por otras tres similares en beneficio de otros estudiantes . Las sentencias impedÃan a la universidad negarse a aceptar a mujeres estudiantes en determinados departamentos basÃ¡ndose Ãºnicamente en la polÃtica de admisiÃ³n de la universidad .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Incluso en los países de la OCDE considerados con una atención primaria fuerte , como el Reino Unido , Australia y Nueva Zelanda , una gran proporción de médicos sigue trabajando en solitario . En Israel , un consultorio medio de atención primaria cuenta con el equivalente a 3,4 médicos generalistas , 2,6 enfermeras , 1,5 auxiliares y la mayoría tiene un director de consulta . En los últimos años , el Reino Unido , Australia , Francia y Suiza han modificado la financiación o proporcionado pagos adicionales a los médicos de cabecera para intentar dar prioridad a estos servicios , pero han tenido un éxito limitado a la hora de impulsar un cambio en todo el sistema .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Considera que el Nivel 2 en lectura y matemáticas es el nivel mínimo de competencia necesario para que los alumnos participen plenamente en la sociedad del conocimiento ( véase la sección Definiciones ) . En Estonia , Finlandia y Japón , al menos el 83 % de los alumnos alcanzan el Nivel 2 o superior tanto en lectura como en matemáticas , mientras que menos del 35 % de los alumnos lo hacen en Brasil , Colombia y Costa Rica . Sin embargo , PISA también muestra sistemáticamente que un alto rendimiento y una mayor equidad no son mutuamente excluyentes ( Figura 2 ) . De hecho , poder mejorar el rendimiento de todos los estudiantes , independientemente de su origen , es necesario para que los países se conviertan en países de alto rendimiento y alcancen las metas del ODS 4 .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: En algunos casos , los organismos interdepartamentales horizontales gozan de un estatuto jurídico en las leyes o reglamentos sobre igualdad , pero estos mecanismos de coordinación pueden seguir adoleciendo de mandatos ambiguos ( Johan , 2010 ) . Los puntos focales de los ministerios sectoriales encargados de integrar y coordinar las iniciativas de integración de la perspectiva de género , por ejemplo , pueden sufrir marginación institucional , falta de autoridad e insuficientes conocimientos técnicos ( Ibid ) . Para apoyar la puesta en marcha de este proceso de `` todo el gobierno '' , la ley creÃ³ un Grupo de CoordinaciÃ³n Interdepartamental para el gobierno federal . Los miembros de este grupo son representantes de las administraciones y de las oficinas de los ministros , y su secretaría es el Instituto para la Igualdad de Mujeres y Hombres .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Este esfuerzo cobró nuevo impulso e inspiración en 1994 , cuando 179 gobiernos se reunieron en El Cairo para la Conferencia Internacional sobre la Población y el Desarrollo y forjaron un plan de desarrollo sostenible basado en los derechos y opciones individuales y en el logro de la salud sexual y reproductiva para todos . Ese plan , plasmado en un Programa de Acción , no sólo revitalizó el movimiento mundial en pro de los derechos reproductivos , sino que también situó al FNUAP como custodio del movimiento .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los profesores crean mayores conexiones con la comunidad en general y con los ancianos , y explicitan cómo lo que se está aprendiendo influye en uno mismo , en la familia , en la comunidad y en la tierra . Los profesores son activadores , mientras que los alumnos participan activamente en el diseño , la aplicación y la medición de las experiencias de aprendizaje . Las asociaciones gozan de un alto grado de equidad , transparencia , beneficio mutuo y responsabilidad .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Sin embargo , la prevalencia de niños de 0 a 6 meses con bajo peso aumentó del 6,9 % en 2005 al 8,4 % en 2010 . En 2014 , el bajo peso al nacer era más frecuente en las zonas rurales ( sobre todo en la región occidental , con un 6,6 % ) que en las urbanas ( 3,8 % en Ulán Bator ) . En 1997 , el Gobierno aprobó una primera lista de productos químicos tóxicos y peligrosos prohibidos y de uso limitado .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los informes de calidad deben basarse en los datos disponibles en un almacén nacional de datos ( más información al respecto más adelante ) y referirse a una serie de indicadores como el número de profesores con competencias docentes en las materias que imparten , los resultados relativos al rendimiento académico y el bienestar en relación con los indicadores establecidos en la reforma de la Folkeskole de 2014 , las notas medias correlacionadas con el origen socioeconómico , las tasas de transición a la educación secundaria superior y las tasas de inclusión de alumnos con necesidades educativas especiales . A efectos de seguimiento , los informes de calidad pueden , sin embargo , revelar información sobre si el municipio o los centros escolares individuales cumplen sus objetivos de rendimiento y cómo evoluciona el rendimiento a lo largo del tiempo . Los seis municipios visitados por el equipo de revisión de la OCDE informaron de que disponen de procedimientos para garantizar el control de calidad de sus escuelas . Esto suele implicar reuniones anuales con los directores de los centros para debatir los resultados de los alumnos , basados en evaluaciones nacionales y municipales y en encuestas a los alumnos y/o al personal de los centros .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Con el telón de fondo de una prolongada falta de fuentes oficiales de información fiable sobre la producción , el tráfico y el uso indebido de drogas ilícitas entre los países de la región , ha habido varios informes de los medios de comunicación y anecdóticos sobre el uso indebido generalizado de comprimidos falsificados de Captagon ( que contienen anfetamina ) entre todas las partes implicadas en la violencia armada en la República Árabe Siria . Es significativo que , por primera vez en seis años , el Estudio sobre el Opio en Afganistán 2015 , del que se dispone del resumen ejecutivo , señala que se ha producido una disminución de la superficie total estimada de cultivo ilícito de adormidera en Afganistán , que en 2015 ascendió a 183.000 hectáreas ( ha ) . Esto representa una disminución en comparación con 2014 , cuando el cultivo alcanzó niveles récord , con 224.000 hectáreas .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: En ambas cámaras legislativas esta cifra alcanzó el 15,9 % . En 2000 , la Unión Interparlamentaria registró cero mujeres parlamentarias en varios países , entre ellos Yibuti , Jordania , Kuwait y los Emiratos Árabes Unidos ( EAU ) 5 , y los niveles más altos de mujeres como representantes políticas se encontraron en Túnez , con 15 mujeres ( 11,5 % ) , e Irak , con 19 ( 7,6 % ) ( Unión Interparlamentaria , 2000 ) . En 2014 , cada uno de los países mencionados anteriormente que no contaban con ninguna mujer en el parlamento en 2000 había aumentado estas cifras : Yibuti aumentÃ³ la representaciÃ³n de mujeres en su poder legislativo a 7 ( 12,7 % ) , la representaciÃ³n legislativa femenina de Jordania creciÃ³ a 18 mujeres ( 12 % ) , los Emiratos Ãrabes Unidos tienen ahora 7 mujeres ( 17,5 % ) , 1 mujer ( 1,5 % ) ejerce como legisladora en Kuwait .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: En 2011 , se revisó la normativa de acreditación de programas para incluir criterios sobre la pertinencia académica y disciplinar ( Kantardjiev y Haakstad , 2017 ) . En la sección 4.2 de la normativa se exige a las instituciones de educación superior que describan la pertinencia de cada programa para la vida laboral y/o la continuación de los estudios mediante la descripción de las competencias desarrolladas en el programa y el modo en que dichas competencias se ajustan al mercado laboral ( Nord University , 2011 ) . La evaluación de la pertinencia de los programas para el mercado laboral suele realizarse mediante el diálogo con los empleadores , pero existen dudas sobre la solidez y la validez de este proceso de consulta ( Kantardjiev y Haakstad , 2017 ) . Los programas ahora `` deben estar profesionalmente actualizados y ser claramente pertinentes para los estudios posteriores y/o la vida laboral '' ( Ministerio de Educación e Investigación de Noruega , 2017b ) .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Por ejemplo , las estadÃsticas de las cuentas nacionales que incorporan una perspectiva de gÃ©nero tienen en cuenta tanto la contribuciÃ³n de las mujeres como la de los hombres en todos los Ã¡mbitos sociales y econÃ³micos , incluido el trabajo no remunerado . La palabra `` sexo '' se refiere a las diferencias biolÃ³gicas entre mujeres y hombres . Las diferencias biolÃ³gicas son fijas e inmutables y no varÃan entre culturas ni a lo largo del tiempo . El `` gÃ©nero '' , por su parte , se refiere a las diferencias construidas socialmente en los atributos y oportunidades asociados al hecho de ser mujer u hombre y a las interacciones y relaciones sociales entre mujeres y hombres .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: La falta de pruebas sólidas de la medición de la seguridad de los pacientes en los entornos de atención primaria y ambulatoria puede explicarse en parte por la naturaleza fragmentada de este entorno descrita en la introducción . De hecho , las respuestas a la encuesta sugieren que el carÃ¡cter fragmentado de los `` sistemas '' de atenciÃ³n primaria y ambulatoria y la falta de gobernanza general del sistema son el principal obstÃ¡culo para la aplicaciÃ³n de medidas e intervenciones de seguridad ( vÃ©ase el capÃtulo 4 ) . Esto significa que la informaciÃ³n rara vez puede vincularse . Estos obstÃ¡culos tÃ©cnicos pueden impedir captar con precisiÃ³n la imagen completa de la frecuencia y magnitud de los daÃ±os sufridos por los pacientes a lo largo de su recorrido .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los estudios que utilizan la clase ocupacional o el nivel educativo en lugar de la renta como indicador socioeconÃ³mico encuentran resultados cualitativamente similares , aunque las diferencias en la esperanza de vida son significativamente menores ( Palosuo et al. , El proyecto TEROKA pretende desarrollar una base de conocimientos y herramientas para promover la consecuciÃ³n del objetivo del programa de salud pÃºblica Salud 2015 de reducir las desigualdades en salud . An analysis of the recent hospital reform in Norwayâ€ , en : Andresen y Gronlie ( eds . ) , â€œ
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Todas las formas de migración ( laboral , estudiantil , forzosa , etc. ) Se necesitan normativas que permitan la reunificación familiar , basadas en los derechos humanos , la igualdad y la no discriminación , para que las mujeres migrantes puedan vivir la vida familiar que elijan . La aplicación de los compromisos con perspectiva de género requerirá el reconocimiento de los múltiples papeles que desempeñan las mujeres en la vida pública y familiar , la diversidad de familias en las que viven las mujeres y toda la gama de derechos de la mujer .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Sacar a la luz pública la prevalencia del problema es en sí mismo un paso para contrarrestar estos abusos y empoderar a las niñas . Cabe señalar que la violencia sexual también se ejerce contra los niños ; sin embargo , hasta la fecha se dispone de pocos datos sobre la violencia contra los niños o sobre la experiencia diferencial de las niñas y los niños .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Por ejemplo , Becker-Blease y Sohl ( 2007 , isj ) muestran que las mujeres buscan financiación ángel en porcentajes sustancialmente inferiores a los de los hombres , pero tienen la misma probabilidad de recibir inversión condicionada a la búsqueda de financiación . Las diferencias en las aspiraciones también pueden influir . Es más probable que se asocie a las mujeres con empresas menos intensivas en capital y con esfuerzos de crecimiento menos agresivos ( Kanze et al. , Los datos de Estados Unidos parecen sugerir que ésta no puede ser toda la explicación . De hecho , la representación de las mujeres en los programas de MBA , así como en las titulaciones superiores de ciencias e ingeniería , ha sido sustancialmente superior a su representación en los sectores empresariales durante las dos últimas décadas . Además , la infrarrepresentación de las mujeres como empresarias respaldadas por capital riesgo no se corresponde con una infrarrepresentación similar en otros campos profesionales altamente remunerados , como la medicina o el derecho , ni en empleos con perfiles similares de capital humano , como la banca de inversión o la consultoría .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los PME orientan a las empresas sobre cómo empoderar a las mujeres en el lugar de trabajo , el mercado y la comunidad . El Principio 5 , en particular , pide que se apliquen prácticas de desarrollo empresarial , cadena de suministro y marketing que empoderen a las mujeres . Los gobiernos suelen ser los principales compradores de productos y servicios en sus países .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Los supervisores están destinados a visitar y supervisar el funcionamiento de las escuelas , asesorar a las escuelas y a la autoridad y realizar diversas tareas administrativas y pedagógicas . Sin embargo , las tareas administrativas ocupan la mayor parte de su tiempo . Sólo los antiguos directores de escuela pueden optar al puesto de supervisor , los nombramientos ATP sólo se conceden a antiguos profesores . Las solicitudes son evaluadas y los puestos asignados en cada estado por la Comisidn Nacional Mixta de Escalaf6n compuesta por la Secretarfa de Educacidn Publica ( SEP ) y representantes del Sindicato Nacional de Trabajadores de la Educacidn ( SNTE ) . Sin embargo , este mecanismo está influido por criterios sindicales y políticos . Actualmente se están realizando esfuerzos para cambiar este proceso y hacerlo más transparente .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: En casi todos los paÃses y regiones del mundo se ha avanzado en distintos Ã¡mbitos hacia la consecuciÃ³n de la igualdad de gÃ©nero y la autonomÃa de la mujer . Sin embargo , estos avances han sido desiguales y los logros siguen siendo frÃ¡giles ; en casi ningÃºn lugar se da a los derechos de la mujer la prioridad que merecen . Al mismo tiempo , la ResoluciÃ³n 1325 supone un hito en el reconocimiento de la contribuciÃ³n de las mujeres al mantenimiento de la paz y la seguridad y reconoce sus necesidades y preocupaciones especÃficas en los conflictos armados y sus consecuencias.5 La resoluciÃ³n reconoce que las mujeres no son meras vÃctimas , sino que tambiÃ©n tienen poder de acciÃ³n y participan activamente en la consolidaciÃ³n de la paz , principalmente a travÃ©s de la diplomacia informal de base en las zonas de conflicto . Entre las iniciativas que se han desarrollado se encuentran otras cuatro resoluciones del Consejo de Seguridad6 sobre la violencia sexual en los conflictos , y se ha realizado un esfuerzo concertado para desarrollar planes de acción a escala nacional , regional y subregional con el fin de acelerar la aplicación de la Resolución 1325 .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Mientras que la eficacia mide el efecto de un agente terapéutico en condiciones y entornos controlados , la efectividad mide el efecto de un tratamiento en condiciones menos controladas en entornos sanitarios del `` mundo real '' . Medir la eficacia es mucho más fácil en pacientes con una sola enfermedad . Por ello , es muy habitual que las personas con múltiples enfermedades crónicas queden excluidas de los ensayos clínicos aleatorizados .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: También tienden a obtener mejores resultados en las evaluaciones cognitivas y lingüísticas cuando la proporción personal-niño es mayor . Además , el desarrollo académico parece mejorar con ratios personal-niño más altas , aunque no hay muchos estudios ( recientes ) que hayan investigado este tema ( Huntsman , 2008 , Sylva et al. , Una limitación de la investigación mencionada anteriormente es que la mayoría de los resultados son casi exclusivamente correlacionales , y ha habido muy pocos estudios experimentales ( Huntsman , 2008 ) . Un estudio experimental realizado por Chetty et al .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Pero quedan muchos retos por delante . Actualmente sólo se dispone de datos suficientes y regulares para 10 de los 54 indicadores específicos de género . A menos que el género se integre en las estrategias estadísticas nacionales y se le dé prioridad en los procesos regulares de recopilación de datos , persistirán la escasez y las lagunas en los datos de género . Sin un compromiso de alto nivel y sin independencia política , los sistemas estadísticos no podrán desempeñar su papel fundamental en el proceso de seguimiento y revisión .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: Aún queda mucho por hacer para reducir los tiempos de espera en las consultas externas de los hospitales de otras zonas , y el Gobierno se ha comprometido a construir un nuevo bloque de consultas externas para aumentar la capacidad de atender la demanda . También se está llevando a cabo un ejercicio para mejorar la eficiencia interna en la gestión de los servicios ambulatorios con vistas a reducir los tiempos de espera . Otros factores que ponen a prueba la capacidad del sistema sanitario son el aumento de la inmigración de trabajadores y pensionistas , los turistas que utilizan el sistema sanitario y los cambios en los comportamientos de riesgo de la población .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Finalizacion de transformacion con TF-IDF
+INFO:root:Prediccion finalizada
+INFO:root:2023-10-29 11:52:23.558114 - Salida : sdg
+5    21
+4    14
+3    14
+Name: count, dtype: int64
+INFO:root:Porcentajes de cada clase: sdg
+5    42.857143
+4    28.571429
+3    28.571429
+Name: proportion, dtype: float64
+INFO:root:Inicio de la creacion de nubes de palabras
+INFO:root:Inicio de la creacion de grafica de pie
+INFO:root:Fin de la creación de gráfica de pie con los valores
+sdg
+5:Igualdad de genero      21
+4:Educacion de calidad    14
+3:Salud y bienestar       14
+Name: count, dtype: int64
+INFO:root:=====================================================
+INFO:root:=====================================================
+INFO:root:Iniciando el proceso de prediccion para UN solo texto
+INFO:root:2023-10-29 12:22:06.295704 - Entrada : La educacion es muy importante.
+INFO:root:Inicio de prediccion
+INFO:root:Inicio de preprocesamiento
+INFO:root:Entrada: La educacion es muy importante .
+INFO:root:Paso 1 de preprocesamiento lowercase finalizado
+INFO:root:Paso 2 de preprocesamiento replace_numbers finalizado
+INFO:root:Paso 3 de preprocesamiento remove_punctuation finalizado
+INFO:root:Paso 4 de preprocesamiento remove_non_ascii finalizado
+INFO:root:Paso 5 de preprocesamiento remove_stopwords finalizado
+INFO:root:Paso preprocesamiento stem_words finalizado
+INFO:root:Paso preprocesamiento lemmatize_verbs finalizado
+INFO:root:TODO preprocesamiento finalizado
+INFO:root:Finalizacion de transformacion con TF-IDF
+INFO:root:Prediccion finalizada
+INFO:root:2023-10-29 12:22:09.415201 - Salida : 4
+INFO:root:=====================================================
