@@ -29,7 +29,7 @@ python -m spacy download es_core_news_sm
 5. Corra el proyecto con el siguiente comando
 
 ```bash
-python -m uvicorn main:app --reload > uvicorn.log
+python -m uvicorn main:app --reload
 ```
 
 6. Ingrese a la URL que se muestra a continuación en su buscador de preferencia:
