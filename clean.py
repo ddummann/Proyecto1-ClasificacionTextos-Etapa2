@@ -3,6 +3,7 @@
 ###############################################
 import pandas as pd
 from joblib import load
+from joblib import dump
 import datetime
 from nltk.stem import SnowballStemmer
 import spacy
@@ -207,7 +208,8 @@ class Pipeline:
             ('Vectorizer', self.vectorizer),
             ('Model', self.model)
         ])
-
+        dump(self.pipeline, 'pipeline.joblib')
+        
     def fit(self, X, y):
         self.pipeline.fit(X, y)
 

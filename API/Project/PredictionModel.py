@@ -35,7 +35,6 @@ class Model:
     def make_predictions(self, data):
         logging.info("Inicio de prediccion")
         self.model = Pipeline()
-        
         self.result = self.model.predict(data['Textos_espanol'])
         logging.info("Finalizacion de transformacion con TF-IDF")
         logging.info("Prediccion finalizada")
