@@ -17,15 +17,26 @@ pip install -r requirements.txt
 ```bash
 cd API/Project
 ```
-3. Corra el proyecto
+3. Ejecute el siguiente comando para instalar las dependencias  de nltk:
+
 ```bash
-uvicorn main:app --reload > uvicorn.log
+python installations.py
 ```
-4. Ingrese a la URL que se muestra a continuación en su buscador de preferencia:
+4. Ejecute el siguiente comando para instalar las dependencias  de spacy:
+```bash
+python -m spacy download es_core_news_sm
+```
+5. Corra el proyecto con uno de los dos siguientes comandos
+
+```bash
+python -m uvicorn main:app --reload > uvicorn.log
+```
+
+6. Ingrese a la URL que se muestra a continuación en su buscador de preferencia:
 
 [         LINK PROYECTO](http://127.0.0.1:8000)
 
-5. Si desea detener la ejecución de la API, presione las teclas **Ctrl + C** en la consola donde se está ejecutando la API.
+7. Si desea detener la ejecución de la API, presione las teclas **Ctrl + C** en la consola donde se está ejecutando la API.
 
 ## Funcionalidades :hammer_and_wrench:
 

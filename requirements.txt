@@ -13,4 +13,9 @@ numpy
 wordcloud
 logging
 datetime
-unicode
+unidecode
+spacy
+num2words
+swifter
+openpyxl
+
