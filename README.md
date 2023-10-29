@@ -26,7 +26,7 @@ python installations.py
 ```bash
 python -m spacy download es_core_news_sm
 ```
-5. Corra el proyecto con uno de los dos siguientes comandos
+5. Corra el proyecto con el siguiente comando
 
 ```bash
 python -m uvicorn main:app --reload > uvicorn.log
