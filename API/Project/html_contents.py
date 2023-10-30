@@ -178,15 +178,24 @@ def html_content_pie_graph():
              alt="Image Description" class="header-image">
             <div class="clear"></div>
             <center>
-                <h1>
-                    API de Objetivos de Desarrollo Sostenible
-                </h1>
-                <h2>
-                    Objetivos de Desarrollo Sostenible
-                </h2>
-                
-                
-                <br>
+                <h1>API de Objetivos de Desarrollo Sostenible</h1>
+    <style>
+        .justificado {
+            text-align: justify;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .centrado {
+            text-align: center;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+    </head>
+    <body>
+        <p class="justificado">Objetivos de Desarrollo Sostenible (ODS) son un conjunto de 17 metas globales establecidas por las Naciones Unidas en 2015, con el propósito de abordar los desafíos más apremiantes a los que se enfrenta la humanidad y el planeta. Estos objetivos abarcan áreas cruciales como la pobreza, el hambre, la salud, la educación, la igualdad de género, el agua limpia, el saneamiento, el trabajo decente, el crecimiento económico, y la acción climática, entre otros. El enfoque principal de los ODS es promover un desarrollo que sea sostenible en términos sociales, económicos y ambientales, buscando un equilibrio entre el crecimiento económico, el bienestar social y la protección del medio ambiente. La meta es lograr estos objetivos para el año 2030, fomentando la colaboración entre gobiernos, sector privado y sociedad civil, para construir un mundo más justo, inclusivo y sostenible. Cada objetivo se desglosa en metas específicas, y se proporcionan indicadores para medir los progresos realizados, asegurando así un seguimiento y evaluación constantes de los avances hacia el logro de estos objetivos universales.</p>
+    </body>
+    <br>
   
             </center>
 

@@ -196,8 +196,22 @@
 
 
     <h1>API de Objetivos de Desarrollo Sostenible</h1>
-
-    <h2>Objetivos de Desarrollo Sostenible</h2>
+    <style>
+        .justificado {
+            text-align: justify;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .centrado {
+            text-align: center;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+    </head>
+    <body>
+        <p class="justificado">Objetivos de Desarrollo Sostenible (ODS) son un conjunto de 17 metas globales establecidas por las Naciones Unidas en 2015, con el propósito de abordar los desafíos más apremiantes a los que se enfrenta la humanidad y el planeta. Estos objetivos abarcan áreas cruciales como la pobreza, el hambre, la salud, la educación, la igualdad de género, el agua limpia, el saneamiento, el trabajo decente, el crecimiento económico, y la acción climática, entre otros. El enfoque principal de los ODS es promover un desarrollo que sea sostenible en términos sociales, económicos y ambientales, buscando un equilibrio entre el crecimiento económico, el bienestar social y la protección del medio ambiente. La meta es lograr estos objetivos para el año 2030, fomentando la colaboración entre gobiernos, sector privado y sociedad civil, para construir un mundo más justo, inclusivo y sostenible. Cada objetivo se desglosa en metas específicas, y se proporcionan indicadores para medir los progresos realizados, asegurando así un seguimiento y evaluación constantes de los avances hacia el logro de estos objetivos universales.</p>
+    </body>
     <br>
     <div class="container">
         <div class="row">
@@ -256,10 +270,19 @@
             <div class="col-md-2"></div> <!-- Empty space (11-12) -->
         </div>
     </div>
-
     <br><br>
     <h3>Cargar Archivo de ODS</h3>
-    <p>En esta API puedes ingresar un texto y te dirá a que objetivo de desarrollo sostenible pertenece.</p>
+    <style>
+        p {
+            text-align: justify;
+            max-width: 1000px; /* o el ancho que prefieras */
+            margin: 0 auto; /* centra el párrafo horizontalmente */
+        }
+    </style>
+    </head>
+    <body>
+        <p class="centrado">En esta API puedes ingresar un texto y te dirá a cuál objetivo de desarrollo sostenible pertenece.</p>
+    </body>
     <div class="d-flex justify-content-center">
         <form method="post" action="/predict-file" enctype="multipart/form-data" class="d-flex align-items-center">
 
